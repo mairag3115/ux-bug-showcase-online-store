@@ -23,8 +23,6 @@ The project evaluates the following user flow:
 ## Key Findings
 ## Visual Evidence
 
-### Product page information overload
-![Amazon product page overload](screenshots/amazon-product-page-overload-01.png)
 
 ### Product title too long
 ![Amazon product title too long](screenshots/amazon-product-title-too-long.png)
