@@ -1,3 +1,5 @@
+![UX Bug Showcase Banner](screenshots/amazon-product-page-overload-01.png)
+
 # UX + Bug Showcase – Online Store
 
 ## Overview
