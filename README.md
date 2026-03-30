@@ -1,10 +1,10 @@
 ![UX Bug Showcase Banner](screenshots/amazon-product-page-overload-01.png)
 
-# UX + Bug Showcase – Online Store
+# 🛒 Showcase de UX + Bugs – Tienda Online
 
-## Overview
-This project is a visual QA and UX showcase focused on analyzing the shopping experience of a well-known online store. The goal is to identify usability issues, possible bugs, friction points, and improvement opportunities through real screenshots and structured findings.
+## 📌 Descripción general
 
+Este proyecto es una muestra visual de QA y UX enfocada en analizar la experiencia de compra de una tienda online reconocida. El objetivo es identificar problemas de usabilidad, posibles bugs, puntos de fricción y oportunidades de mejora a través de capturas reales y hallazgos estructurados.
 ## Store Analyzed
 Amazon
 
