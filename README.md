@@ -5,65 +5,72 @@
 ## 📌 Descripción general
 
 Este proyecto es una muestra visual de QA y UX enfocada en analizar la experiencia de compra de una tienda online reconocida. El objetivo es identificar problemas de usabilidad, posibles bugs, puntos de fricción y oportunidades de mejora a través de capturas reales y hallazgos estructurados.
-## Store Analyzed
+## 🏪 Tienda analizada
+
 Amazon
 
-## Project Goal
-To build a visually engaging QA and UX portfolio project by reviewing a real online shopping experience and documenting practical findings.
+## 🎯 Objetivo del proyecto
 
-## Scope
-The project evaluates the following user flow:
-- Homepage navigation
-- Product search
-- Product listing review
-- Product detail page
-- Shopping experience friction points
-- Visual clarity and usability issues
+Construir un proyecto visual de portafolio en QA y UX mediante la revisión de una experiencia real de compra online y la documentación de hallazgos prácticos.
 
-## Key Findings
-## Visual Evidence
+## 🧭 Alcance
 
+El proyecto evalúa el siguiente flujo de usuario:
 
-### Product title too long
+- Navegación en la página principal
+- Búsqueda de productos
+- Revisión del listado de productos
+- Página de detalle del producto
+- Puntos de fricción en la experiencia de compra
+- Problemas de claridad visual y usabilidad
+
+## 🔍 Hallazgos principales
+
+## 🖼️ Evidencia visual
+
+### 🏷️ Título del producto demasiado largo
 ![Amazon product title too long](screenshots/amazon-product-title-too-long.png)
 
-### About this item scanability
+### 📖 Escaneabilidad de la sección “Acerca de este producto”
 ![Amazon about this item scanability](screenshots/amazon-about-this-item-scanability.png)
 
-### Finding 01 – Product page presents excessive information density
-The product page contains too much information competing for the user's attention, making it harder to identify essential purchase details quickly.
+### ⚠️ Hallazgo 01 – La página del producto presenta una densidad excesiva de información
 
-### Finding 02 – Product title is too long and reduces scanability
-The title includes too many attributes in a single block, which reduces first-glance clarity and slows down product understanding.
+La página del producto contiene demasiada información compitiendo por la atención del usuario, lo que dificulta identificar rápidamente los detalles esenciales de compra.
+### ⚠️ Hallazgo 02 – El título del producto es demasiado largo y reduce la escaneabilidad
 
-### Finding 03 – Key product benefits are not easy to scan quickly
-The “About this item” section presents long descriptive bullet points, making it harder to recognize the most important benefits in seconds.
+El título incluye demasiados atributos en un solo bloque, lo que reduce la claridad a primera vista y ralentiza la comprensión del producto.
 
-## Deliverables
-- Visual findings
-- UX observations
-- Possible bugs or pseudo-bugs
-- Improvement ideas
-- Screenshot evidence
-- Summary report
+### ⚠️ Hallazgo 03 – Los beneficios clave del producto no son fáciles de escanear rápidamente
 
-## Why This Project Matters
-This project combines QA thinking with UX analysis in a visual and recruiter-friendly format. It is designed to show not only what is wrong, but also why it matters for the user and how it could be improved.
+La sección “Acerca de este producto” presenta viñetas descriptivas demasiado largas, lo que dificulta reconocer los beneficios más importantes en pocos segundos.
 
-## Repository Structure
-- `findings/` → documented visual findings
-- `screenshots/` → screenshot evidence
-- `redesign-proposals/` → improvement ideas and suggestions
-- `summary-report.md` → final summary of findings
+## 📦 Entregables
+- Hallazgos visuales
+- Observaciones de UX
+- Posibles bugs o pseudo-bugs
+- Ideas de mejora
+- Evidencia con capturas de pantalla
 
-## Skills Demonstrated
-- Manual testing
-- UX analysis
-- Functional analysis
-- Visual documentation
-- Bug identification
-- Structured reporting
-- Critical thinking
+## 💡 Por qué este proyecto es importante
 
-## Status
-In progress
+Este proyecto combina el pensamiento de QA con análisis de UX en un formato visual y fácil de revisar para reclutadores. Está diseñado para mostrar no solo qué está mal, sino también por qué importa para el usuario y cómo podría mejorarse.
+
+## 🗂️ Estructura del repositorio
+- `findings/` → hallazgos visuales documentados
+- `screenshots/` → evidencia en capturas de pantalla
+- `redesign-proposals/` → ideas y propuestas de mejora
+- `summary-report.md` → resumen final de hallazgos
+  
+## 🛠️ Habilidades demostradas
+- Testing manual
+- Análisis UX
+- Análisis funcional
+- Documentación visual
+- Identificación de bugs
+- Reporte estructurado
+- Pensamiento crítico
+
+## 🚧 Estado
+
+En progreso
